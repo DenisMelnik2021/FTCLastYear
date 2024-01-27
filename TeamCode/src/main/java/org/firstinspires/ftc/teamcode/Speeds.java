@@ -27,7 +27,7 @@ public class Speeds {
         right_back = left_front;
 
         if (slower) {
-            slower_k = 0.7;
+            slower_k = 0.3;
         } else {
             slower_k = 1.0;
         }
